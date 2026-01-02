@@ -1,0 +1,21 @@
+id,title,description,link
+1,Google,Search the world's information including webpages images and videos,https://google.com
+2,YouTube,Watch and share videos from creators around the world,https://youtube.com
+3,GitHub,The world's leading software development platform,https://github.com
+4,Stack Overflow,Get answers to your programming questions,https://stackoverflow.com
+5,MDN Web Docs,Resources for developers by developers,https://developer.mozilla.org
+6,React Documentation,Learn React with official guides and tutorials,https://react.dev
+7,Tailwind CSS,Rapidly build modern websites without leaving your HTML,https://tailwindcss.com
+8,Node.js,JavaScript runtime built on Chrome's V8 engine,https://nodejs.org
+9, Express.js,Fast unopinionated minimalist web framework for Node.js,https://expressjs.com
+10,FreeCodeCamp,Learn to code for free with millions of other people,https://
+11,Codecademy,Interactive coding lessons on various programming languages,https://codecademy.com
+12,LeetCode,Practice coding problems and prepare for technical interviews,https://leetcode.com
+13,HackerRank,Competitive programming and coding challenges platform,https://hackerrank.com
+14,Reddit,A network of communities based on people's interests,https://reddit.com
+15,Twitter,Join the conversation and stay updated with the latest news,https://twitter.com
+16,LinkedIn,Professional networking and career development platform,https://linkedin.com
+17,Medium,Read and write articles on various topics,https://medium.com
+18,Dev.to,A community of software developers sharing ideas and projects,https://dev.to
+19,Smashing Magazine,Resources and articles for web designers and developers,https://smashingmagazine.com
+20,CSS-Tricks,Tips and tricks about web design and development,https://css-tricks.com   
